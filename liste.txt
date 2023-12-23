@@ -1,0 +1,9 @@
+#liste.txt
+file buse1A.wav
+file silence_10mn.wav
+file buzard2mn.wav
+file silence_10mn.wav
+file buseA.wav
+file silence_10mn.wav
+file epervierA.wav
+file silence_10mn.wav
